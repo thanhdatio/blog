@@ -14,7 +14,7 @@ keywords: ["ThanhDatIO", "Chu Thành Đạt", "Người cầm trứng","blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Hanoi
+timezone:          Asia/Ho_Chi_Minh
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
