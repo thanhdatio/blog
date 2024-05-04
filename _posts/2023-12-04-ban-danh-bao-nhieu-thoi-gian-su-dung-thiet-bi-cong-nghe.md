@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 快学scala笔记——控制结构和函数下篇
+title: Bạn dành bao nhiêu thời gian sử dụng thiết bị công nghệ?
 category: [congnghe]
 tags: [congnghe]
 ---
-
-Bạn dành bao nhiêu thời gian sử dụng thiết bị công nghệ?
-
 Theo góc nhìn của mình, xét theo khía cạnh trao đổi thông tin, vì điều này ảnh hưởng trực tiếp đến tâm trí. Với những thiết bị công nghệ có tương tác gần nhất với con người chia thành các loại chính là thiết bị khai thác thông tin liên lạc có nhận thức và thiết bị hỗ trợ. Thiết bị khai thác thông tin có nhận thức ví dụ là điện thoại thông minh, máy tính và các sản phẩm tương tự khác, tại sao mình lại gọi là thiết bị thông tin có nhận thức, bởi vì có nhiều thông tin con người không cảm nhận được thông qua 5 giác quan; thiết bị hỗ trợ ví dụ là thiết bị hỗ trợ theo dõi sức khỏe, y tế, thiết bị vệ sinh dân dụng,...
 
 
