@@ -19,6 +19,4 @@ Bạn nên cân nhắc kỹ thời gian sử dụng các thiết bị công ngh�
 
 Hình ảnh của bài viết được lấy từ: https://www.nbcnews.com/storyline/the-big-questions/your-smartphone-may-actually-be-changing-human-race-n743866
 
-- try/finally语句可以释放资源，不论异常有没有发生。
-
 
