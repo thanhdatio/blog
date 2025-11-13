@@ -1,9 +1,4 @@
----
-layout: post
-title:  Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành Trình Từ Hỗn Loạn Đến Hiệu Quả (Phần 1)
-categories: [n8n]
-tags: [n8n]
----
+
 # Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành Trình Từ Hỗn Loạn Đến Hiệu Quả (Phần 1)
 
 > *“Một đội nhóm không phải là tập hợp những người làm việc cùng nhau, mà là những người tin tưởng lẫn nhau.”* – Simon Sinek  
