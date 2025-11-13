@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành Trình Từ Hỗn Loạn Đến Hiệu Quả (Phần 1)
+title: Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành Trình Từ Hỗn Loạn Đến Hiệu Quả
 category: [n8n]
 tags: [n8n]
 ---
