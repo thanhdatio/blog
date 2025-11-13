@@ -4,6 +4,7 @@ title:  Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành
 categories: [n8n]
 tags: [n8n]
 ---
+
 > *“Một đội nhóm không phải là tập hợp những người làm việc cùng nhau, mà là những người tin tưởng lẫn nhau.”* – Simon Sinek  
 > Nhưng nếu niềm tin bị lung lay bởi những email lạc lối, file mất tích và deadline trôi tuột? Hãy để tôi kể bạn nghe câu chuyện của team tôi – và cách chúng tôi **hồi sinh** quy trình làm việc chỉ với **n8n** và **Google Drive**.
 
