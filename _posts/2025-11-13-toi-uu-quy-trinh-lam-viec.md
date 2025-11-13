@@ -4,6 +4,7 @@ title:  Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành
 categories: [n8n]
 tags: [n8n]
 ---
+# Tối Ưu Quy Trình Làm Việc Nhóm Với n8n Và Google Drive: Hành Trình Từ Hỗn Loạn Đến Hiệu Quả (Phần 1)
 
 > *“Một đội nhóm không phải là tập hợp những người làm việc cùng nhau, mà là những người tin tưởng lẫn nhau.”* – Simon Sinek  
 > Nhưng nếu niềm tin bị lung lay bởi những email lạc lối, file mất tích và deadline trôi tuột? Hãy để tôi kể bạn nghe câu chuyện của team tôi – và cách chúng tôi **hồi sinh** quy trình làm việc chỉ với **n8n** và **Google Drive**.
@@ -15,7 +16,7 @@ tags: [n8n]
 Hãy tưởng tượng: **Thứ Hai sáng sớm**, bạn mở Slack – 47 tin nhắn chưa đọc. Mở email – 12 file đính kèm từ 3 người khác nhau, **cùng một tên file**: `Báo_cáo_Q3_final_v3_REALLY_FINAL.docx`.  
 Mở Google Drive – thư mục “Project Phoenix” có **127 file**, không ai biết cái nào là mới nhất.
 
-![Hình 1: Thư mục Google Drive hỗn loạn](https://via.placeholder.com/800x400?text=Google+Drive+Chaos+-+127+Files)  
+![Hình 1: Thư mục Google Drive hỗn loạn](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEeyZFr6xgAQL4UnPvHQX3lS-NLvOCIEu7oYhsxaty2-TdfZzEuTX1hyP5Vt9T5C0HYvPvy-wDScdw6_05jVzOCsBP2TPDSOzKLSNUJpt1w5Fi775jsbY9WQe9dnVn1894bBuSy5bxRM/s1600/vector+2767+office.jpg)
 *Hình 1: Thư mục “Project Phoenix” – nơi file đi lạc và deadline bị chôn vùi.*
 
 ### Vấn đề kỹ thuật thực tế:
