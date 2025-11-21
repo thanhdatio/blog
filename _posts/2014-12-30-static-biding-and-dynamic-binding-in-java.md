@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Java中的静态绑定和动态绑定
+title:  Java中的静态绑定和动态绑定@####;fd;;fdf
 category: [java]
 tas: [java]
 ---
